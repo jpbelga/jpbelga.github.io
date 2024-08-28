@@ -20,7 +20,7 @@
 
 title: jpbelga
 email: jpedrobelga@usp.br
-description: This random webpage is just a safe spot were I can put down in words some thoughts and learnings. More than sharing, this is a documentation project of my learnings and tryings. So, lets make internet uncool again.
+description: blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jpbelga
