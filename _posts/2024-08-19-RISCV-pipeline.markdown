@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building a Simple Scalar Multicycle RISC-V Processor"
-date: 2024-08-15
+date: 2024-08-19
 categories: [Computer Architecture, RISC-V]
 author: João Pedro Belga
 ---
