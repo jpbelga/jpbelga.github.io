@@ -28,7 +28,7 @@ Now, let's dive into the architecture of this simple scalar multicycle RISC-V pr
 
 ### Architecture Overview
 
-![RISC-V Processor Architecture](./media/DataPath.png)
+![RISC-V Processor Architecture](/assets/DataPath.png)
 
 The architecture follows the standard five stages of a pipeline:
 
