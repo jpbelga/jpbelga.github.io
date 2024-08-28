@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hackathon - Cartesi!"
-date:   2024-08-15 14:17:55 -0300
+date:   2024-08-27 14:17:55 -0300
 categories: jekyll update
 ---
 
