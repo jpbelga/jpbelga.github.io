@@ -19,4 +19,3 @@ By running PyTorch models inside the Cartesi Machine, investors can tap into sca
 
 Furthermore, Cartesi-Weather provides a general framework for running inference on any PyTorch model within the Cartesi Machine, offering a versatile foundation for a wide range of applications. Developers can easily swap models and adjust client inputs, unlocking new possibilities for secure and private AI-driven insights.
 
-# CHECK HERE -> [CARTESI WEATHER](https://github.com/sarmentow/cartesi-weather)
